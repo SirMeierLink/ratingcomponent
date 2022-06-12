@@ -1,0 +1,2 @@
+# ratingcomponent
+Rating Component
